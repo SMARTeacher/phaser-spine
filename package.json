@@ -1,27 +1,22 @@
 {
-  "name": "@azerion/phaser-spine",
-  "author": "Azerion",
-  "version": "3.0.11",
+  "name": "@prodigy/phaser-spine",
+  "author": "Prodigy Education",
+  "version": "1.0.0",
   "description": "Spine plugin for Phaser.io!",
   "contributors": [
     {
-      "name": "Ale Bles",
-      "email": "a.bles@azerion.com"
+      "name": "Christopher Light",
+      "email": "chris.light@prodigygame.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:azerion/phaser-spine.git"
+    "url": "git@github.com:SMARTeacher/phaser-spine.git"
   },
   "licenses": [
     {
       "type": "MIT",
       "url": "https://raw.githubusercontent.com/azerion/phaser-spine/master/LICENSE"
-    }
-  ],
-  "bugs": [
-    {
-      "url": "https://github.com/azerion/phaser-spine/issues"
     }
   ],
   "config": {
